@@ -25,7 +25,6 @@ A MEJORAR :
 * Corregir el problema de las cancelaciones de reservas a los que están después del primer usuario, para así ellos no tener que esperar a que este cancele la reserva.
 * Mostrar inmediatamente cuando un campo posee más de 50 caracteres, en vez de esperar a que se asignen todos los campos.
 
-
 CONTRIBUCIONES :
 
 JAVIER DÍAZ :
@@ -83,4 +82,6 @@ Una vez se haya desplegado el menú de la aplicación, se debe ingresar el índi
 9) Importar libros desde un archivo CSV (nombre_archivo): La usuaria ingresa el nombre del archivo y la aplicación carga todos los libros y sus datos, incluyendo las colas de reservas.
 
 10) Exportar libros a un archivo CSV (nombre_archivo): La aplicación exporta todos los libros, sus datos y las colas de reservas a un archivo csv indicado por la usuaria.
+Una vez concluida la utilización de la aplicación se debe ingresar la opción “0” para cerrarla. Al hacer esto dejará de existir el ejecutable creado al correr el programa por lo que toda la información almacenada en la aplicación será eliminada de la memoria.
+
 Una vez concluida la utilización de la aplicación se debe ingresar la opción “0” para cerrarla. Al hacer esto dejará de existir el ejecutable creado al correr el programa por lo que toda la información almacenada en la aplicación será eliminada de la memoria.
